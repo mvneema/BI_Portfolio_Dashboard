@@ -129,7 +129,7 @@ BI_Portfolio_Dashboard/
 ├── Page1_ExecutiveKPIs.jpg
 ├── Page2_ProductDeepDive.jpg
 ├── Page3_KeyInfluencerInsights.jpg
-└── [Optional: Dashboard.pbix - if sharing Power BI file]
+└── Sales Dashboard.pbix 
 ```
 
 ---
@@ -167,7 +167,7 @@ BI_Portfolio_Dashboard/
 
 ## 📬 Questions or Feedback?
 
-I'm always open to discussing this project in more detail. Feel free to reach out via [LinkedIn](YOUR_LINKEDIN).
+I'm always open to discussing this project in more detail. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/neema-mv/).
 
 ---
 

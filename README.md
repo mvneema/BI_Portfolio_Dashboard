@@ -125,12 +125,10 @@ While physical stores drive 57% of total sales, they contribute to a **$132,521 
 ## 📁 Repository Contents
 ```
 BI_Portfolio_Dashboard/
-├── README.md (this file)
+├── README.md (with demo video)
 ├── Page1_ExecutiveKPIs.jpg
 ├── Page2_ProductDeepDive.jpg
-├── Page3_KeyInfluencerInsights.jpg
-└── Sales Dashboard.pbix 
-```
+└── Page3_KeyInfluencerInsights.jpg
 
 ---
 

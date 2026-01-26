@@ -6,7 +6,11 @@
 A retail organization operating across 34 countries needed visibility into sales performance and profitability drivers to optimize revenue growth while improving profit margins. Leadership required an executive-ready analytical solution to identify market opportunities, understand product performance variations, and uncover factors impacting profitability across channels and regions.
 
 ---
+## 📊 Dashboard Demo
+   
+**[▶️ Watch 90-Second Interactive Demo](https://www.loom.com/share/82b8f5694f894d5796c7299cbb8e9b43)**
 
+---
 ## 💡 Key Insights
 
 ### Revenue Concentration & Seasonality
